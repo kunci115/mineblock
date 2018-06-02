@@ -1,0 +1,2 @@
+# mineblock
+ngetest bikin blockchain 
